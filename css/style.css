@@ -1,0 +1,35 @@
+/*--
+    Author: W3Layouts
+    Author URL: http://w3layouts.com
+    License: Creative Commons Attribution 3.0 Unported
+    License URL: http://creativecommons.org/licenses/by/3.0/
+--*/
+
+html,
+body {
+    margin: 0;
+    font-size: 100%;
+    font-family: 'Poppins', sans-serif;
+    background: #fff;
+}
+
+body a {
+    text-decoration: none;
+    transition: 0.5s all;
+    -webkit-transition: 0.5s all;
+    -moz-transition: 0.5s all;
+    -o-transition: 0.5s all;
+    -ms-transition: 0.5s all;
+    font-family: 'Poppins', sans-serif;
+}
+.top-right-text{
+    margin-left: 250px;
+}
+.text-srvices,.experiance{
+    text-align: center;
+    padding: 20px ;
+    
+}
+.ex-text{
+    padding-bottom: 25px;
+}
